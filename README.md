@@ -20,6 +20,8 @@ This project performs **end-to-end student performance analysis, machine learnin
 
 The goal is to analyze how academic habits, lifestyle choices, and personal factors influence a student’s exam score.
 
+Live Demo: https://student-exam-score-predictor-mrunmayee3108.streamlit.app/
+
 The project includes:
 
 * Data preprocessing and feature engineering using **Jupyter Notebook**
