@@ -31,7 +31,8 @@ The project includes:
 
 ## 📷 Demo Screenshots
 
-
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/2d940d71-1b59-47e0-9f97-574f3876ee21" />
+<img width="1913" height="1017" alt="image" src="https://github.com/user-attachments/assets/9b210058-d691-4e5b-aefa-4bc581c3db47" />
 
 
 ## 📁 Project Structure
